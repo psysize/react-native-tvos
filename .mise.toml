@@ -1,0 +1,5 @@
+[tools]
+yarn = "1.22.22"
+
+[hooks]
+enter = "mise install -q"
